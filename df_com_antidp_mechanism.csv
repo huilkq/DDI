@@ -1,0 +1,742 @@
+,index,drugA,drugB,event,label
+0,4523,Agomelatine,Fluvoxamine,The serum concentration increase,4
+1,4528,Bupropion,Fluvoxamine,The risk or severity of adverse effects increase,2
+2,4530,Citalopram,Fluvoxamine,The serum concentration increase,4
+3,4533,Duloxetine,Fluvoxamine,The metabolism decrease,0
+4,4604,Fluvoxamine,Mirtazapine,the serotonergic activities increase,41
+5,4625,Fluvoxamine,Zimelidine,The risk or severity of adverse effects increase,2
+6,4677,Brexanolone,Fluvoxamine,The risk or severity of adverse effects increase,2
+7,4683,Fluvoxamine,Reboxetine,The risk or severity of adverse effects increase,2
+8,4705,Fluvoxamine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+9,4707,Fluvoxamine,Viloxazine,The risk or severity of adverse effects increase,2
+10,4769,Fluvoxamine,Tranylcypromine,the serotonergic activities increase,41
+11,4770,Fluvoxamine,Phenelzine,the serotonergic activities increase,41
+12,4772,Fluvoxamine,Selegiline,the serotonergic activities increase,41
+13,4773,Fluvoxamine,Moclobemide,the serotonergic activities increase,41
+14,4867,Venlafaxine,Fluvoxamine,The metabolism decrease,0
+15,4873,Imipramine,Fluvoxamine,The metabolism decrease,0
+16,4875,Nortriptyline,Fluvoxamine,The metabolism decrease,0
+17,4876,Amoxapine,Fluvoxamine,The metabolism decrease,0
+18,4877,Paroxetine,Fluvoxamine,The metabolism decrease,0
+19,4878,Trimipramine,Fluvoxamine,The metabolism decrease,0
+20,4883,Maprotiline,Fluvoxamine,The metabolism decrease,0
+21,4884,Sertraline,Fluvoxamine,The metabolism decrease,0
+22,4885,Doxepin,Fluvoxamine,The metabolism decrease,0
+23,4886,Nefazodone,Fluvoxamine,The metabolism decrease,0
+24,4887,Desipramine,Fluvoxamine,The metabolism decrease,0
+25,4888,Quetiapine,Fluvoxamine,The metabolism decrease,0
+26,4889,Clomipramine,Fluvoxamine,The metabolism decrease,0
+27,4894,Cariprazine,Fluvoxamine,The metabolism decrease,0
+28,4896,Mianserin,Fluvoxamine,The metabolism decrease,0
+29,4898,Vilazodone,Fluvoxamine,The metabolism decrease,0
+30,4899,Levomilnacipran,Fluvoxamine,The metabolism decrease,0
+31,4901,Vortioxetine,Fluvoxamine,The metabolism decrease,0
+32,4902,Dosulepin,Fluvoxamine,The metabolism decrease,0
+33,5363,Amitriptyline,Fluvoxamine,The metabolism decrease,0
+34,5364,Fluvoxamine,Esketamine,The risk or severity of adverse effects increase,2
+35,5374,Trazodone,Fluvoxamine,The risk or severity of serotonin syndrome increase,21
+36,5381,Fluvoxamine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+37,5403,Fluoxetine,Fluvoxamine,The serum concentration increase,4
+38,22922,Citalopram,Fluoxetine,The serum concentration increase,4
+39,22927,Citalopram,Clomipramine,The serum concentration increase,4
+40,22946,Citalopram,Sertraline,The serum concentration increase,4
+41,22953,Bupropion,Citalopram,The risk or severity of adverse effects increase,2
+42,22972,Citalopram,Mirtazapine,the serotonergic activities increase,41
+43,22991,Citalopram,Zimelidine,The risk or severity of adverse effects increase,2
+44,23053,Agomelatine,Citalopram,The risk or severity of adverse effects increase,2
+45,23061,Brexanolone,Citalopram,The risk or severity of adverse effects increase,2
+46,23076,Citalopram,Reboxetine,The risk or severity of adverse effects increase,2
+47,23088,Citalopram,Maprotiline,The risk or severity of adverse effects increase,2
+48,23091,Citalopram,Nefazodone,The risk or severity of adverse effects increase,2
+49,23103,Citalopram,Cariprazine,The risk or severity of adverse effects increase,2
+50,23105,Citalopram,Mianserin,The risk or severity of adverse effects increase,2
+51,23109,Citalopram,Desvenlafaxine,The risk or severity of adverse effects increase,2
+52,23111,Citalopram,Levomilnacipran,The risk or severity of adverse effects increase,2
+53,23113,Citalopram,Vortioxetine,The risk or severity of adverse effects increase,2
+54,23115,Citalopram,Viloxazine,The risk or severity of adverse effects increase,2
+55,23124,Doxepin,Citalopram,The risk or severity of adverse effects increase,2
+56,23128,Nortriptyline,Citalopram,The risk or severity of adverse effects increase,2
+57,23129,Amoxapine,Citalopram,The risk or severity of adverse effects increase,2
+58,23132,Trimipramine,Citalopram,The risk or severity of adverse effects increase,2
+59,23248,Citalopram,Quetiapine,The risk or severity of QTc prolongation increase,5
+60,23316,Venlafaxine,Citalopram,The metabolism decrease,0
+61,23318,Duloxetine,Citalopram,The metabolism decrease,0
+62,23320,Vilazodone,Citalopram,The metabolism decrease,0
+63,23322,Citalopram,Desipramine,The metabolism decrease,0
+64,23528,Citalopram,Paroxetine,the QTcprolonging activities increase,40
+65,23534,Imipramine,Citalopram,the QTcprolonging activities increase,40
+66,23563,Dosulepin,Citalopram,the QTcprolonging activities increase,40
+67,23599,Tranylcypromine,Citalopram,The risk or severity of serotonin syndrome increase,21
+68,23600,Phenelzine,Citalopram,The risk or severity of serotonin syndrome increase,21
+69,23602,Selegiline,Citalopram,The risk or severity of serotonin syndrome increase,21
+70,23604,Moclobemide,Citalopram,The risk or severity of serotonin syndrome increase,21
+71,23613,Amitriptyline,Citalopram,The metabolism decrease,0
+72,23614,Citalopram,Esketamine,The risk or severity of adverse effects increase,2
+73,23621,Trazodone,Citalopram,The risk or severity of QTc prolongation increase,5
+74,23627,Citalopram,Escitalopram,The risk or severity of serotonin syndrome increase,21
+75,28242,Reboxetine,Mirtazapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+76,28263,Reboxetine,Zimelidine,The risk or severity of adverse effects increase,2
+77,28265,Reboxetine,Duloxetine,The risk or severity of adverse effects increase,2
+78,28266,Reboxetine,Trazodone,The risk or severity of adverse effects increase,2
+79,28267,Reboxetine,Paroxetine,The risk or severity of adverse effects increase,2
+80,28268,Reboxetine,Sertraline,The risk or severity of adverse effects increase,2
+81,28270,Reboxetine,Nefazodone,The risk or severity of adverse effects increase,2
+82,28271,Reboxetine,Escitalopram,The risk or severity of adverse effects increase,2
+83,28273,Reboxetine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+84,28274,Reboxetine,Levomilnacipran,The risk or severity of adverse effects increase,2
+85,28291,Reboxetine,Imipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+86,28294,Reboxetine,Doxepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+87,28298,Reboxetine,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+88,28299,Reboxetine,Amoxapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+89,28300,Reboxetine,Desipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+90,28396,Reboxetine,Agomelatine,The risk or severity of adverse effects increase,2
+91,28410,Reboxetine,Brexanolone,The risk or severity of adverse effects increase,2
+92,28441,Reboxetine,Trimipramine,The risk or severity of adverse effects increase,2
+93,28442,Reboxetine,Clomipramine,The risk or severity of adverse effects increase,2
+94,28443,Reboxetine,Venlafaxine,The risk or severity of adverse effects increase,2
+95,28463,Reboxetine,Tranylcypromine,The risk or severity of adverse effects increase,2
+96,28464,Reboxetine,Phenelzine,The risk or severity of adverse effects increase,2
+97,28474,Reboxetine,Maprotiline,The risk or severity of adverse effects increase,2
+98,28476,Reboxetine,Selegiline,The risk or severity of adverse effects increase,2
+99,28477,Reboxetine,Bupropion,The risk or severity of adverse effects increase,2
+100,28478,Reboxetine,Moclobemide,The risk or severity of adverse effects increase,2
+101,28480,Reboxetine,Quetiapine,The risk or severity of adverse effects increase,2
+102,28495,Reboxetine,Cariprazine,The risk or severity of adverse effects increase,2
+103,28497,Reboxetine,Mianserin,The risk or severity of adverse effects increase,2
+104,28502,Reboxetine,Vilazodone,The risk or severity of adverse effects increase,2
+105,28506,Reboxetine,Vortioxetine,The risk or severity of adverse effects increase,2
+106,28508,Reboxetine,Viloxazine,The risk or severity of adverse effects increase,2
+107,28613,Dosulepin,Reboxetine,The metabolism decrease,0
+108,28627,Amitriptyline,Reboxetine,The metabolism decrease,0
+109,28628,Reboxetine,Esketamine,The risk or severity of adverse effects increase,2
+110,28640,Reboxetine,Fluoxetine,the central nervous system depressant ( CNS depressant ) activities increase,7
+111,43441,Venlafaxine,Trazodone,the serotonergic activities increase,41
+112,43446,Venlafaxine,Mirtazapine,the serotonergic activities increase,41
+113,43450,Venlafaxine,Zimelidine,The risk or severity of adverse effects increase,2
+114,43453,Venlafaxine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+115,43603,Imipramine,Venlafaxine,The metabolism decrease,0
+116,43604,Duloxetine,Venlafaxine,The metabolism decrease,0
+117,43606,Nortriptyline,Venlafaxine,The metabolism decrease,0
+118,43607,Amoxapine,Venlafaxine,The metabolism decrease,0
+119,43609,Paroxetine,Venlafaxine,The metabolism decrease,0
+120,43610,Trimipramine,Venlafaxine,The metabolism decrease,0
+121,43612,Tranylcypromine,Venlafaxine,The metabolism decrease,0
+122,43617,Maprotiline,Venlafaxine,The metabolism decrease,0
+123,43618,Selegiline,Venlafaxine,The metabolism decrease,0
+124,43620,Sertraline,Venlafaxine,The metabolism decrease,0
+125,43621,Doxepin,Venlafaxine,The metabolism decrease,0
+126,43622,Nefazodone,Venlafaxine,The metabolism decrease,0
+127,43623,Moclobemide,Venlafaxine,The metabolism decrease,0
+128,43624,Quetiapine,Venlafaxine,The metabolism decrease,0
+129,43626,Clomipramine,Venlafaxine,The metabolism decrease,0
+130,43632,Cariprazine,Venlafaxine,The metabolism decrease,0
+131,43634,Mianserin,Venlafaxine,The metabolism decrease,0
+132,43636,Vilazodone,Venlafaxine,The metabolism decrease,0
+133,43637,Levomilnacipran,Venlafaxine,The metabolism decrease,0
+134,43639,Vortioxetine,Venlafaxine,The metabolism decrease,0
+135,43640,Dosulepin,Venlafaxine,The metabolism decrease,0
+136,43804,Venlafaxine,Agomelatine,The risk or severity of adverse effects increase,2
+137,43815,Venlafaxine,Brexanolone,The risk or severity of adverse effects increase,2
+138,43842,Venlafaxine,Phenelzine,the serotonergic activities increase,41
+139,43898,Venlafaxine,Viloxazine,The risk or severity of adverse effects increase,2
+140,44214,Amitriptyline,Venlafaxine,The metabolism decrease,0
+141,44215,Venlafaxine,Esketamine,The risk or severity of adverse effects increase,2
+142,44226,Venlafaxine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+143,44232,Desipramine,Desipramine,The serum concentration of the active metabolites increase,95
+144,44233,Venlafaxine,Bupropion,The risk or severity of seizure increase,63
+145,44238,Fluoxetine,Venlafaxine,The serum concentration increase,4
+146,54842,Amitriptyline,Mianserin,the anticholinergic activities increase,60
+147,54863,Amitriptyline,Mirtazapine,the serotonergic activities increase,41
+148,54868,Amitriptyline,Zimelidine,The risk or severity of adverse effects increase,2
+149,54958,Brexanolone,Amitriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+150,54978,Amitriptyline,Vortioxetine,the central nervous system depressant ( CNS depressant ) activities increase,7
+151,54979,Amitriptyline,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+152,55024,Cariprazine,Amitriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+153,55034,Viloxazine,Amitriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+154,55125,Amitriptyline,Quetiapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+155,55135,Amitriptyline,Amoxapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+156,55136,Trimipramine,Amitriptyline,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+157,55169,Amitriptyline,Desvenlafaxine,The risk or severity of adverse effects increase,2
+158,55170,Amitriptyline,Levomilnacipran,The risk or severity of adverse effects increase,2
+159,55478,Agomelatine,Amitriptyline,The metabolism decrease,0
+160,55607,Amitriptyline,Imipramine,The metabolism decrease,0
+161,55609,Amitriptyline,Fluoxetine,The metabolism decrease,0
+162,55610,Amitriptyline,Duloxetine,The metabolism decrease,0
+163,55616,Amitriptyline,Nortriptyline,The metabolism decrease,0
+164,55633,Amitriptyline,Paroxetine,The metabolism decrease,0
+165,55634,Amitriptyline,Tranylcypromine,The metabolism decrease,0
+166,55636,Amitriptyline,Phenelzine,The metabolism decrease,0
+167,55653,Amitriptyline,Selegiline,The metabolism decrease,0
+168,55660,Amitriptyline,Sertraline,The metabolism decrease,0
+169,55667,Amitriptyline,Doxepin,The metabolism decrease,0
+170,55668,Amitriptyline,Nefazodone,The metabolism decrease,0
+171,55669,Amitriptyline,Desipramine,The metabolism decrease,0
+172,55670,Amitriptyline,Moclobemide,The metabolism decrease,0
+173,55672,Amitriptyline,Escitalopram,The metabolism decrease,0
+174,55679,Amitriptyline,Clomipramine,The metabolism decrease,0
+175,55705,Amitriptyline,Vilazodone,The metabolism decrease,0
+176,55714,Amitriptyline,Dosulepin,The metabolism decrease,0
+177,55734,Esketamine,Amitriptyline,The risk or severity of hypertension increase,9
+178,55743,Trazodone,Amitriptyline,The risk or severity of QTc prolongation increase,5
+179,55751,Bupropion,Amitriptyline,The risk or severity of seizure increase,63
+180,72215,Agomelatine,Mirtazapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+181,72226,Brexanolone,Mirtazapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+182,72245,Mirtazapine,Bupropion,the central nervous system depressant ( CNS depressant ) activities increase,7
+183,72259,Mirtazapine,Viloxazine,the central nervous system depressant ( CNS depressant ) activities increase,7
+184,72340,Imipramine,Mirtazapine,the serotonergic activities increase,41
+185,72341,Fluoxetine,Mirtazapine,the serotonergic activities increase,41
+186,72342,Duloxetine,Mirtazapine,the serotonergic activities increase,41
+187,72347,Nortriptyline,Mirtazapine,the serotonergic activities increase,41
+188,72348,Amoxapine,Mirtazapine,the serotonergic activities increase,41
+189,72354,Trazodone,Mirtazapine,the serotonergic activities increase,41
+190,72361,Paroxetine,Mirtazapine,the serotonergic activities increase,41
+191,72363,Trimipramine,Mirtazapine,the serotonergic activities increase,41
+192,72365,Tranylcypromine,Mirtazapine,the serotonergic activities increase,41
+193,72367,Phenelzine,Mirtazapine,the serotonergic activities increase,41
+194,72380,Maprotiline,Mirtazapine,the serotonergic activities increase,41
+195,72386,Selegiline,Mirtazapine,the serotonergic activities increase,41
+196,72390,Sertraline,Mirtazapine,the serotonergic activities increase,41
+197,72393,Doxepin,Mirtazapine,the serotonergic activities increase,41
+198,72394,Nefazodone,Mirtazapine,the serotonergic activities increase,41
+199,72395,Desipramine,Mirtazapine,the serotonergic activities increase,41
+200,72397,Moclobemide,Mirtazapine,the serotonergic activities increase,41
+201,72398,Escitalopram,Mirtazapine,the serotonergic activities increase,41
+202,72402,Quetiapine,Mirtazapine,the serotonergic activities increase,41
+203,72407,Clomipramine,Mirtazapine,the serotonergic activities increase,41
+204,72420,Zimelidine,Mirtazapine,the serotonergic activities increase,41
+205,72429,Cariprazine,Mirtazapine,the serotonergic activities increase,41
+206,72431,Mianserin,Mirtazapine,the serotonergic activities increase,41
+207,72436,Vilazodone,Mirtazapine,the serotonergic activities increase,41
+208,72437,Desvenlafaxine,Mirtazapine,the serotonergic activities increase,41
+209,72441,Levomilnacipran,Mirtazapine,the serotonergic activities increase,41
+210,72443,Vortioxetine,Mirtazapine,the serotonergic activities increase,41
+211,72445,Dosulepin,Mirtazapine,the serotonergic activities increase,41
+212,72782,Esketamine,Mirtazapine,The risk or severity of hypertension increase,9
+213,98106,Imipramine,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+214,98141,Imipramine,Mianserin,the anticholinergic activities increase,60
+215,98155,Agomelatine,Imipramine,The serum concentration increase,4
+216,98164,Imipramine,Zimelidine,The risk or severity of adverse effects increase,2
+217,98229,Phenelzine,Imipramine,the serotonergic activities increase,41
+218,98240,Brexanolone,Imipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+219,98295,Viloxazine,Imipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+220,98438,Nortriptyline,Imipramine,The metabolism decrease,0
+221,98439,Amoxapine,Imipramine,The metabolism decrease,0
+222,98441,Paroxetine,Imipramine,The metabolism decrease,0
+223,98442,Trimipramine,Imipramine,The metabolism decrease,0
+224,98443,Tranylcypromine,Imipramine,The metabolism decrease,0
+225,98448,Maprotiline,Imipramine,The metabolism decrease,0
+226,98449,Selegiline,Imipramine,The metabolism decrease,0
+227,98451,Sertraline,Imipramine,The metabolism decrease,0
+228,98452,Doxepin,Imipramine,The metabolism decrease,0
+229,98453,Nefazodone,Imipramine,The metabolism decrease,0
+230,98454,Desipramine,Imipramine,The metabolism decrease,0
+231,98455,Moclobemide,Imipramine,The metabolism decrease,0
+232,98456,Quetiapine,Imipramine,The metabolism decrease,0
+233,98458,Clomipramine,Imipramine,The metabolism decrease,0
+234,98463,Cariprazine,Imipramine,The metabolism decrease,0
+235,98466,Vilazodone,Imipramine,The metabolism decrease,0
+236,98467,Levomilnacipran,Imipramine,The metabolism decrease,0
+237,98469,Vortioxetine,Imipramine,The metabolism decrease,0
+238,98470,Dosulepin,Imipramine,The metabolism decrease,0
+239,98628,Imipramine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+240,98863,Esketamine,Imipramine,The risk or severity of hypertension increase,9
+241,98870,Trazodone,Imipramine,The risk or severity of QTc prolongation increase,5
+242,98874,Fluoxetine,Imipramine,The serum concentration increase,4
+243,98878,Imipramine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+244,98881,Bupropion,Imipramine,The risk or severity of seizure increase,63
+245,103191,Fluoxetine,Esketamine,The risk or severity of adverse effects increase,2
+246,103198,Fluoxetine,Phenelzine,The risk or severity of serotonin syndrome increase,21
+247,103199,Trazodone,Fluoxetine,The risk or severity of QTc prolongation increase,5
+248,103204,Nortriptyline,Fluoxetine,The serum concentration increase,4
+249,103205,Amoxapine,Fluoxetine,The serum concentration increase,4
+250,103206,Trimipramine,Fluoxetine,The serum concentration increase,4
+251,103207,Doxepin,Fluoxetine,The serum concentration increase,4
+252,103208,Desipramine,Fluoxetine,The serum concentration increase,4
+253,103209,Clomipramine,Fluoxetine,The serum concentration increase,4
+254,103210,Dosulepin,Fluoxetine,The serum concentration increase,4
+255,103217,Fluoxetine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+256,103220,Fluoxetine,Bupropion,The risk or severity of seizure increase,63
+257,103240,Duloxetine,Fluoxetine,The serum concentration increase,4
+258,103242,Paroxetine,Fluoxetine,The serum concentration increase,4
+259,103247,Maprotiline,Fluoxetine,The serum concentration increase,4
+260,103248,Selegiline,Fluoxetine,The serum concentration increase,4
+261,103249,Sertraline,Fluoxetine,The serum concentration increase,4
+262,103250,Nefazodone,Fluoxetine,The serum concentration increase,4
+263,103251,Moclobemide,Fluoxetine,The serum concentration increase,4
+264,103252,Quetiapine,Fluoxetine,The serum concentration increase,4
+265,103258,Cariprazine,Fluoxetine,The serum concentration increase,4
+266,103260,Mianserin,Fluoxetine,The serum concentration increase,4
+267,103262,Vilazodone,Fluoxetine,The serum concentration increase,4
+268,103263,Levomilnacipran,Fluoxetine,The serum concentration increase,4
+269,103265,Vortioxetine,Fluoxetine,The serum concentration increase,4
+270,103402,Fluoxetine,Zimelidine,The risk or severity of serotonin syndrome increase,21
+271,103421,Fluoxetine,Tranylcypromine,The risk or severity of serotonin syndrome increase,21
+272,103428,Fluoxetine,Desvenlafaxine,The risk or severity of serotonin syndrome increase,21
+273,103470,Agomelatine,Fluoxetine,the central nervous system depressant ( CNS depressant ) activities increase,7
+274,103477,Brexanolone,Fluoxetine,the central nervous system depressant ( CNS depressant ) activities increase,7
+275,103512,Fluoxetine,Viloxazine,the central nervous system depressant ( CNS depressant ) activities increase,7
+276,104184,Tranylcypromine,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+277,104187,Phenelzine,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+278,104205,Selegiline,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+279,104216,Quetiapine,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+280,104220,Clomipramine,Duloxetine,The risk or severity of orthostatic hypotension and syncope increase,71
+281,104293,Duloxetine,Zimelidine,The risk or severity of adverse effects increase,2
+282,104338,Agomelatine,Duloxetine,The risk or severity of adverse effects increase,2
+283,104348,Brexanolone,Duloxetine,The risk or severity of adverse effects increase,2
+284,104376,Duloxetine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+285,104379,Duloxetine,Viloxazine,The risk or severity of adverse effects increase,2
+286,104450,Duloxetine,Moclobemide,the serotonergic activities increase,41
+287,104547,Nortriptyline,Duloxetine,The metabolism decrease,0
+288,104548,Amoxapine,Duloxetine,The metabolism decrease,0
+289,104549,Paroxetine,Duloxetine,The metabolism decrease,0
+290,104550,Trimipramine,Duloxetine,The metabolism decrease,0
+291,104555,Maprotiline,Duloxetine,The metabolism decrease,0
+292,104556,Sertraline,Duloxetine,The metabolism decrease,0
+293,104557,Doxepin,Duloxetine,The metabolism decrease,0
+294,104558,Nefazodone,Duloxetine,The metabolism decrease,0
+295,104559,Desipramine,Duloxetine,The metabolism decrease,0
+296,104564,Cariprazine,Duloxetine,The metabolism decrease,0
+297,104566,Mianserin,Duloxetine,The metabolism decrease,0
+298,104568,Vilazodone,Duloxetine,The metabolism decrease,0
+299,104569,Levomilnacipran,Duloxetine,The metabolism decrease,0
+300,104571,Vortioxetine,Duloxetine,The metabolism decrease,0
+301,104572,Dosulepin,Duloxetine,The metabolism decrease,0
+302,104654,Bupropion,Duloxetine,The metabolism decrease,0
+303,104933,Duloxetine,Esketamine,The risk or severity of adverse effects increase,2
+304,104936,Trazodone,Duloxetine,The risk or severity of serotonin syndrome increase,21
+305,104940,Duloxetine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+306,121020,Nortriptyline,Mianserin,the anticholinergic activities increase,60
+307,121066,Nortriptyline,Sertraline,The risk or severity of adverse effects increase,2
+308,121067,Nortriptyline,Zimelidine,The risk or severity of adverse effects increase,2
+309,121155,Phenelzine,Nortriptyline,the serotonergic activities increase,41
+310,121157,Selegiline,Nortriptyline,the serotonergic activities increase,41
+311,121158,Moclobemide,Nortriptyline,the serotonergic activities increase,41
+312,121173,Brexanolone,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+313,121206,Nortriptyline,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+314,121241,Clomipramine,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+315,121248,Cariprazine,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+316,121256,Vortioxetine,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+317,121260,Viloxazine,Nortriptyline,the central nervous system depressant ( CNS depressant ) activities increase,7
+318,121317,Tranylcypromine,Nortriptyline,The metabolism decrease,0
+319,121318,Desipramine,Nortriptyline,The metabolism decrease,0
+320,121319,Vilazodone,Nortriptyline,The metabolism decrease,0
+321,121320,Dosulepin,Nortriptyline,The metabolism decrease,0
+322,121342,Paroxetine,Nortriptyline,The metabolism decrease,0
+323,121360,Nortriptyline,Nefazodone,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+324,121361,Nortriptyline,Amoxapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+325,121362,Nortriptyline,Quetiapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+326,121365,Trimipramine,Nortriptyline,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+327,121397,Nortriptyline,Desvenlafaxine,The risk or severity of adverse effects increase,2
+328,121398,Nortriptyline,Levomilnacipran,The risk or severity of adverse effects increase,2
+329,121592,Agomelatine,Nortriptyline,The metabolism decrease,0
+330,121642,Esketamine,Nortriptyline,The risk or severity of hypertension increase,9
+331,121645,Trazodone,Nortriptyline,The risk or severity of QTc prolongation increase,5
+332,121652,Nortriptyline,Escitalopram,The risk or severity of serotonin syndrome increase,21
+333,121655,Nortriptyline,Bupropion,The risk or severity of seizure increase,63
+334,121659,Doxepin,Nortriptyline,The serum concentration increase,4
+335,122543,Amoxapine,Mianserin,the anticholinergic activities increase,60
+336,122594,Phenelzine,Amoxapine,The risk or severity of adverse effects increase,2
+337,122596,Selegiline,Amoxapine,The risk or severity of adverse effects increase,2
+338,122597,Moclobemide,Amoxapine,The risk or severity of adverse effects increase,2
+339,122606,Amoxapine,Zimelidine,The risk or severity of adverse effects increase,2
+340,122607,Amoxapine,Sertraline,The risk or severity of adverse effects increase,2
+341,122749,Brexanolone,Amoxapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+342,122766,Amoxapine,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+343,122782,Clomipramine,Amoxapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+344,122785,Cariprazine,Amoxapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+345,122791,Vortioxetine,Amoxapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+346,122862,Tranylcypromine,Amoxapine,The metabolism decrease,0
+347,122863,Desipramine,Amoxapine,The metabolism decrease,0
+348,122864,Vilazodone,Amoxapine,The metabolism decrease,0
+349,122865,Dosulepin,Amoxapine,The metabolism decrease,0
+350,122888,Paroxetine,Amoxapine,The metabolism decrease,0
+351,122902,Amoxapine,Agomelatine,The risk or severity of adverse effects increase,2
+352,122916,Amoxapine,Nefazodone,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+353,122917,Amoxapine,Doxepin,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+354,122918,Amoxapine,Quetiapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+355,122920,Trimipramine,Amoxapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+356,122951,Amoxapine,Viloxazine,The risk or severity of adverse effects increase,2
+357,122961,Amoxapine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+358,122962,Amoxapine,Levomilnacipran,The risk or severity of adverse effects increase,2
+359,123037,Esketamine,Amoxapine,The risk or severity of hypertension increase,9
+360,123040,Trazodone,Amoxapine,The risk or severity of QTc prolongation increase,5
+361,123046,Amoxapine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+362,123049,Amoxapine,Bupropion,The risk or severity of seizure increase,63
+363,151555,Nefazodone,Trazodone,The serum concentration increase,4
+364,151567,Tranylcypromine,Trazodone,the serotonergic activities increase,41
+365,151568,Phenelzine,Trazodone,the serotonergic activities increase,41
+366,151570,Selegiline,Trazodone,the serotonergic activities increase,41
+367,151572,Moclobemide,Trazodone,the serotonergic activities increase,41
+368,151620,Agomelatine,Trazodone,The risk or severity of adverse effects increase,2
+369,151628,Brexanolone,Trazodone,The risk or severity of adverse effects increase,2
+370,151649,Trazodone,Viloxazine,The risk or severity of adverse effects increase,2
+371,151839,Esketamine,Trazodone,The risk or severity of hypertension increase,9
+372,151871,Trazodone,Desvenlafaxine,The risk or severity of serotonin syndrome increase,21
+373,151879,Trazodone,Levomilnacipran,The risk or severity of serotonin syndrome increase,21
+374,151881,Trazodone,Vortioxetine,The risk or severity of serotonin syndrome increase,21
+375,151882,Trazodone,Vilazodone,The risk or severity of serotonin syndrome increase,21
+376,151890,Trazodone,Zimelidine,The risk or severity of serotonin syndrome increase,21
+377,151897,Trazodone,Cariprazine,The risk or severity of serotonin syndrome increase,21
+378,151906,Trazodone,Mianserin,The risk or severity of serotonin syndrome increase,21
+379,151920,Paroxetine,Trazodone,The risk or severity of serotonin syndrome increase,21
+380,151929,Trazodone,Escitalopram,The risk or severity of QTc prolongation increase,5
+381,151949,Trazodone,Quetiapine,The risk or severity of QTc prolongation increase,5
+382,151972,Trazodone,Clomipramine,The risk or severity of QTc prolongation increase,5
+383,151977,Trazodone,Trimipramine,The risk or severity of QTc prolongation increase,5
+384,151986,Trazodone,Maprotiline,The risk or severity of QTc prolongation increase,5
+385,151998,Trazodone,Sertraline,The risk or severity of QTc prolongation increase,5
+386,151999,Trazodone,Doxepin,The risk or severity of QTc prolongation increase,5
+387,152000,Trazodone,Desipramine,The risk or severity of QTc prolongation increase,5
+388,152040,Trazodone,Dosulepin,The risk or severity of QTc prolongation increase,5
+389,152091,Trazodone,Bupropion,The risk or severity of seizure increase,63
+390,167121,Paroxetine,Mianserin,the anticholinergic activities increase,60
+391,167133,Vortioxetine,Paroxetine,The metabolism decrease,0
+392,167136,Bupropion,Paroxetine,The risk or severity of adverse effects increase,2
+393,167152,Paroxetine,Zimelidine,The risk or severity of adverse effects increase,2
+394,167191,Agomelatine,Paroxetine,The risk or severity of adverse effects increase,2
+395,167200,Brexanolone,Paroxetine,The risk or severity of adverse effects increase,2
+396,167226,Paroxetine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+397,167229,Paroxetine,Viloxazine,The risk or severity of adverse effects increase,2
+398,167291,Paroxetine,Tranylcypromine,the serotonergic activities increase,41
+399,167292,Paroxetine,Phenelzine,the serotonergic activities increase,41
+400,167294,Paroxetine,Selegiline,the serotonergic activities increase,41
+401,167295,Paroxetine,Moclobemide,the serotonergic activities increase,41
+402,167325,Paroxetine,Clomipramine,The metabolism decrease,0
+403,167327,Desipramine,Paroxetine,The metabolism decrease,0
+404,167328,Vilazodone,Paroxetine,The metabolism decrease,0
+405,167329,Dosulepin,Paroxetine,The metabolism decrease,0
+406,167350,Maprotiline,Paroxetine,The metabolism decrease,0
+407,167351,Sertraline,Paroxetine,The metabolism decrease,0
+408,167352,Nefazodone,Paroxetine,The metabolism decrease,0
+409,167353,Quetiapine,Paroxetine,The metabolism decrease,0
+410,167358,Cariprazine,Paroxetine,The metabolism decrease,0
+411,167361,Levomilnacipran,Paroxetine,The metabolism decrease,0
+412,167433,Doxepin,Paroxetine,The metabolism decrease,0
+413,167434,Paroxetine,Trimipramine,The metabolism decrease,0
+414,167595,Paroxetine,Esketamine,The risk or severity of adverse effects increase,2
+415,167606,Paroxetine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+416,168992,Trimipramine,Zimelidine,The risk or severity of adverse effects increase,2
+417,168993,Trimipramine,Sertraline,The risk or severity of adverse effects increase,2
+418,169050,Trimipramine,Phenelzine,the serotonergic activities increase,41
+419,169052,Trimipramine,Selegiline,the serotonergic activities increase,41
+420,169053,Trimipramine,Moclobemide,the serotonergic activities increase,41
+421,169061,Trimipramine,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+422,169132,Tranylcypromine,Trimipramine,The metabolism decrease,0
+423,169133,Desipramine,Trimipramine,The metabolism decrease,0
+424,169134,Vilazodone,Trimipramine,The metabolism decrease,0
+425,169135,Dosulepin,Trimipramine,The metabolism decrease,0
+426,169177,Trimipramine,Brexanolone,The risk or severity of adverse effects increase,2
+427,169224,Trimipramine,Clomipramine,The risk or severity of adverse effects increase,2
+428,169233,Trimipramine,Cariprazine,The risk or severity of adverse effects increase,2
+429,169235,Trimipramine,Mianserin,The risk or severity of adverse effects increase,2
+430,169242,Trimipramine,Vortioxetine,The risk or severity of adverse effects increase,2
+431,169259,Trimipramine,Nefazodone,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+432,169260,Trimipramine,Doxepin,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+433,169261,Trimipramine,Quetiapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+434,169283,Trimipramine,Viloxazine,The risk or severity of adverse effects increase,2
+435,169291,Trimipramine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+436,169292,Trimipramine,Levomilnacipran,The risk or severity of adverse effects increase,2
+437,169375,Trimipramine,Agomelatine,The metabolism decrease,0
+438,169485,Esketamine,Trimipramine,The risk or severity of hypertension increase,9
+439,169493,Trimipramine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+440,169496,Trimipramine,Bupropion,The risk or severity of seizure increase,63
+441,174319,Tranylcypromine,Bupropion,The risk or severity of adverse effects increase,2
+442,174377,Tranylcypromine,Zimelidine,the serotonergic activities increase,41
+443,174380,Tranylcypromine,Nefazodone,the serotonergic activities increase,41
+444,174382,Tranylcypromine,Desvenlafaxine,the serotonergic activities increase,41
+445,174383,Tranylcypromine,Levomilnacipran,the serotonergic activities increase,41
+446,174442,Maprotiline,Tranylcypromine,The metabolism decrease,0
+447,174443,Selegiline,Tranylcypromine,The metabolism decrease,0
+448,174445,Doxepin,Tranylcypromine,The metabolism decrease,0
+449,174446,Desipramine,Tranylcypromine,The metabolism decrease,0
+450,174447,Moclobemide,Tranylcypromine,The metabolism decrease,0
+451,174448,Quetiapine,Tranylcypromine,The metabolism decrease,0
+452,174449,Clomipramine,Tranylcypromine,The metabolism decrease,0
+453,174453,Cariprazine,Tranylcypromine,The metabolism decrease,0
+454,174455,Mianserin,Tranylcypromine,The metabolism decrease,0
+455,174457,Vilazodone,Tranylcypromine,The metabolism decrease,0
+456,174459,Vortioxetine,Tranylcypromine,The metabolism decrease,0
+457,174460,Dosulepin,Tranylcypromine,The metabolism decrease,0
+458,174542,Tranylcypromine,Brexanolone,The risk or severity of adverse effects increase,2
+459,174576,Tranylcypromine,Phenelzine,The risk or severity of adverse effects increase,2
+460,174601,Tranylcypromine,Viloxazine,The risk or severity of adverse effects increase,2
+461,174673,Agomelatine,Tranylcypromine,The metabolism decrease,0
+462,174740,Esketamine,Tranylcypromine,The risk or severity of hypertension increase,9
+463,174745,Tranylcypromine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+464,174748,Tranylcypromine,Sertraline,The risk or severity of serotonin syndrome increase,21
+465,179797,Phenelzine,Bupropion,The risk or severity of adverse effects increase,2
+466,179800,Phenelzine,Maprotiline,The risk or severity of adverse effects increase,2
+467,179801,Phenelzine,Mianserin,The risk or severity of adverse effects increase,2
+468,179874,Phenelzine,Zimelidine,the serotonergic activities increase,41
+469,179877,Phenelzine,Nefazodone,the serotonergic activities increase,41
+470,179879,Phenelzine,Desvenlafaxine,the serotonergic activities increase,41
+471,179880,Phenelzine,Levomilnacipran,the serotonergic activities increase,41
+472,179882,Phenelzine,Doxepin,the serotonergic activities increase,41
+473,179883,Phenelzine,Desipramine,the serotonergic activities increase,41
+474,179884,Phenelzine,Clomipramine,the serotonergic activities increase,41
+475,179932,Phenelzine,Agomelatine,The risk or severity of adverse effects increase,2
+476,179938,Phenelzine,Brexanolone,The risk or severity of adverse effects increase,2
+477,179959,Cariprazine,Phenelzine,The metabolism decrease,0
+478,179960,Vilazodone,Phenelzine,The metabolism decrease,0
+479,179961,Vortioxetine,Phenelzine,The metabolism decrease,0
+480,179974,Phenelzine,Selegiline,The risk or severity of adverse effects increase,2
+481,179975,Phenelzine,Moclobemide,The risk or severity of adverse effects increase,2
+482,179989,Phenelzine,Quetiapine,The risk or severity of adverse effects increase,2
+483,180007,Phenelzine,Viloxazine,The risk or severity of adverse effects increase,2
+484,180255,Esketamine,Phenelzine,The risk or severity of hypertension increase,9
+485,180260,Phenelzine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+486,180263,Phenelzine,Sertraline,The risk or severity of serotonin syndrome increase,21
+487,180368,Dosulepin,Phenelzine,The metabolism decrease,0
+488,210867,Maprotiline,Mianserin,the anticholinergic activities increase,60
+489,210873,Maprotiline,Selegiline,The risk or severity of adverse effects increase,2
+490,210874,Maprotiline,Moclobemide,The risk or severity of adverse effects increase,2
+491,210882,Maprotiline,Zimelidine,The risk or severity of adverse effects increase,2
+492,210884,Maprotiline,Sertraline,The risk or severity of adverse effects increase,2
+493,210886,Maprotiline,Nefazodone,The risk or severity of adverse effects increase,2
+494,210888,Maprotiline,Desvenlafaxine,The risk or severity of adverse effects increase,2
+495,210889,Maprotiline,Levomilnacipran,The risk or severity of adverse effects increase,2
+496,210961,Brexanolone,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+497,210971,Maprotiline,Doxepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+498,210972,Clomipramine,Maprotiline,the central nervous system depressant ( CNS depressant ) activities increase,7
+499,211014,Desipramine,Maprotiline,The metabolism decrease,0
+500,211015,Vilazodone,Maprotiline,The metabolism decrease,0
+501,211016,Dosulepin,Maprotiline,The metabolism decrease,0
+502,211050,Maprotiline,Quetiapine,The risk or severity of adverse effects increase,2
+503,211064,Maprotiline,Cariprazine,The risk or severity of adverse effects increase,2
+504,211073,Maprotiline,Vortioxetine,The risk or severity of adverse effects increase,2
+505,211075,Maprotiline,Viloxazine,The risk or severity of adverse effects increase,2
+506,211285,Agomelatine,Maprotiline,The metabolism decrease,0
+507,211309,Maprotiline,Esketamine,The risk or severity of adverse effects increase,2
+508,211314,Maprotiline,Escitalopram,The risk or severity of serotonin syndrome increase,21
+509,211317,Maprotiline,Bupropion,The risk or severity of seizure increase,63
+510,229641,Selegiline,Bupropion,The risk or severity of adverse effects increase,2
+511,229642,Selegiline,Mianserin,The risk or severity of adverse effects increase,2
+512,229697,Selegiline,Zimelidine,the serotonergic activities increase,41
+513,229700,Selegiline,Nefazodone,the serotonergic activities increase,41
+514,229702,Selegiline,Desvenlafaxine,the serotonergic activities increase,41
+515,229703,Selegiline,Levomilnacipran,the serotonergic activities increase,41
+516,229705,Selegiline,Doxepin,the serotonergic activities increase,41
+517,229706,Selegiline,Clomipramine,the serotonergic activities increase,41
+518,229735,Desipramine,Selegiline,The metabolism decrease,0
+519,229736,Vilazodone,Selegiline,The metabolism decrease,0
+520,229737,Dosulepin,Selegiline,The metabolism decrease,0
+521,229775,Selegiline,Brexanolone,The risk or severity of adverse effects increase,2
+522,229789,Cariprazine,Selegiline,The metabolism decrease,0
+523,229790,Vortioxetine,Selegiline,The metabolism decrease,0
+524,229811,Selegiline,Moclobemide,The risk or severity of adverse effects increase,2
+525,229826,Selegiline,Quetiapine,The risk or severity of adverse effects increase,2
+526,229844,Selegiline,Viloxazine,The risk or severity of adverse effects increase,2
+527,229972,Agomelatine,Selegiline,The metabolism decrease,0
+528,230055,Esketamine,Selegiline,The risk or severity of hypertension increase,9
+529,230061,Selegiline,Escitalopram,The risk or severity of serotonin syndrome increase,21
+530,230064,Selegiline,Sertraline,The risk or severity of serotonin syndrome increase,21
+531,240755,Agomelatine,Sertraline,The risk or severity of adverse effects increase,2
+532,240765,Brexanolone,Sertraline,The risk or severity of adverse effects increase,2
+533,240769,Sertraline,Nefazodone,The risk or severity of adverse effects increase,2
+534,240771,Sertraline,Quetiapine,The risk or severity of adverse effects increase,2
+535,240784,Sertraline,Cariprazine,The risk or severity of adverse effects increase,2
+536,240790,Sertraline,Desvenlafaxine,The risk or severity of adverse effects increase,2
+537,240792,Sertraline,Levomilnacipran,The risk or severity of adverse effects increase,2
+538,240795,Sertraline,Viloxazine,The risk or severity of adverse effects increase,2
+539,240800,Zimelidine,Sertraline,The risk or severity of adverse effects increase,2
+540,240844,Sertraline,Clomipramine,The metabolism decrease,0
+541,240846,Desipramine,Sertraline,The metabolism decrease,0
+542,240847,Vilazodone,Sertraline,The metabolism decrease,0
+543,240848,Dosulepin,Sertraline,The metabolism decrease,0
+544,240910,Mianserin,Sertraline,The metabolism decrease,0
+545,240930,Vortioxetine,Sertraline,The metabolism decrease,0
+546,240972,Doxepin,Sertraline,The metabolism decrease,0
+547,241000,Sertraline,Esketamine,The risk or severity of adverse effects increase,2
+548,241007,Sertraline,Escitalopram,The risk or severity of serotonin syndrome increase,21
+549,241014,Sertraline,Moclobemide,The risk or severity of serotonin syndrome increase,21
+550,241017,Sertraline,Bupropion,The risk or severity of seizure increase,63
+551,247256,Doxepin,Mianserin,the anticholinergic activities increase,60
+552,247277,Doxepin,Zimelidine,The risk or severity of adverse effects increase,2
+553,247316,Doxepin,Moclobemide,the serotonergic activities increase,41
+554,247323,Brexanolone,Doxepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+555,247343,Doxepin,Vortioxetine,the central nervous system depressant ( CNS depressant ) activities increase,7
+556,247360,Cariprazine,Doxepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+557,247371,Viloxazine,Doxepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+558,247407,Doxepin,Clomipramine,The metabolism decrease,0
+559,247408,Desipramine,Doxepin,The metabolism decrease,0
+560,247409,Vilazodone,Doxepin,The metabolism decrease,0
+561,247410,Dosulepin,Doxepin,The metabolism decrease,0
+562,247430,Doxepin,Nefazodone,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+563,247431,Doxepin,Quetiapine,the orthostatic hypotensive hypotensive and antihypertensive activities increase,39
+564,247459,Doxepin,Desvenlafaxine,The risk or severity of adverse effects increase,2
+565,247460,Doxepin,Levomilnacipran,The risk or severity of adverse effects increase,2
+566,247600,Doxepin,Agomelatine,The metabolism decrease,0
+567,247649,Esketamine,Doxepin,The risk or severity of hypertension increase,9
+568,247657,Doxepin,Escitalopram,The risk or severity of serotonin syndrome increase,21
+569,247660,Doxepin,Bupropion,The risk or severity of seizure increase,63
+570,247795,Levomilnacipran,Nefazodone,The metabolism decrease,0
+571,247803,Quetiapine,Nefazodone,The serum concentration increase,4
+572,247808,Vilazodone,Nefazodone,The metabolism decrease,0
+573,247819,Nefazodone,Zimelidine,The risk or severity of adverse effects increase,2
+574,247833,Agomelatine,Nefazodone,The risk or severity of adverse effects increase,2
+575,247839,Brexanolone,Nefazodone,The risk or severity of adverse effects increase,2
+576,247851,Nefazodone,Cariprazine,The risk or severity of adverse effects increase,2
+577,247853,Nefazodone,Mianserin,The risk or severity of adverse effects increase,2
+578,247856,Nefazodone,Desvenlafaxine,The risk or severity of adverse effects increase,2
+579,247859,Nefazodone,Vortioxetine,The risk or severity of adverse effects increase,2
+580,247861,Nefazodone,Viloxazine,The risk or severity of adverse effects increase,2
+581,247933,Nefazodone,Moclobemide,the serotonergic activities increase,41
+582,247994,Desipramine,Nefazodone,The metabolism decrease,0
+583,247995,Dosulepin,Nefazodone,The metabolism decrease,0
+584,248008,Bupropion,Nefazodone,The metabolism decrease,0
+585,248045,Clomipramine,Nefazodone,The risk or severity of adverse effects increase,2
+586,248175,Esketamine,Nefazodone,The risk or severity of hypertension increase,9
+587,248185,Nefazodone,Escitalopram,The risk or severity of serotonin syndrome increase,21
+588,248240,Desipramine,Mianserin,the anticholinergic activities increase,60
+589,248258,Desipramine,Zimelidine,The risk or severity of adverse effects increase,2
+590,248313,Brexanolone,Desipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+591,248338,Viloxazine,Desipramine,the central nervous system depressant ( CNS depressant ) activities increase,7
+592,248379,Moclobemide,Desipramine,The metabolism decrease,0
+593,248380,Quetiapine,Desipramine,The metabolism decrease,0
+594,248381,Clomipramine,Desipramine,The metabolism decrease,0
+595,248385,Cariprazine,Desipramine,The metabolism decrease,0
+596,248388,Vilazodone,Desipramine,The metabolism decrease,0
+597,248389,Levomilnacipran,Desipramine,The metabolism decrease,0
+598,248391,Vortioxetine,Desipramine,The metabolism decrease,0
+599,248392,Dosulepin,Desipramine,The metabolism decrease,0
+600,248486,Desipramine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+601,248601,Agomelatine,Desipramine,The metabolism decrease,0
+602,248624,Esketamine,Desipramine,The risk or severity of hypertension increase,9
+603,248631,Desipramine,Escitalopram,The risk or severity of serotonin syndrome increase,21
+604,248635,Desipramine,Bupropion,The risk or severity of seizure increase,63
+605,249283,Moclobemide,Bupropion,The risk or severity of adverse effects increase,2
+606,249291,Bupropion,Vortioxetine,The risk or severity of adverse effects increase,2
+607,249292,Bupropion,Zimelidine,The risk or severity of adverse effects increase,2
+608,249302,Escitalopram,Bupropion,The metabolism decrease,0
+609,249303,Quetiapine,Bupropion,The metabolism decrease,0
+610,249309,Cariprazine,Bupropion,The metabolism decrease,0
+611,249311,Mianserin,Bupropion,The metabolism decrease,0
+612,249313,Levomilnacipran,Bupropion,The metabolism decrease,0
+613,249376,Vilazodone,Bupropion,The metabolism decrease,0
+614,249410,Bupropion,Brexanolone,The risk or severity of adverse effects increase,2
+615,249434,Bupropion,Viloxazine,The risk or severity of adverse effects increase,2
+616,249566,Bupropion,Agomelatine,The metabolism decrease,0
+617,249607,Bupropion,Esketamine,The risk or severity of adverse effects increase,2
+618,249614,Bupropion,Clomipramine,The risk or severity of seizure increase,63
+619,249615,Bupropion,Desvenlafaxine,The risk or severity of seizure increase,63
+620,249618,Bupropion,Dosulepin,The risk or severity of seizure increase,63
+621,251719,Moclobemide,Mianserin,The risk or severity of adverse effects increase,2
+622,251762,Moclobemide,Zimelidine,the serotonergic activities increase,41
+623,251765,Moclobemide,Desvenlafaxine,the serotonergic activities increase,41
+624,251766,Moclobemide,Levomilnacipran,the serotonergic activities increase,41
+625,251768,Moclobemide,Clomipramine,the serotonergic activities increase,41
+626,251791,Vilazodone,Moclobemide,The metabolism decrease,0
+627,251792,Dosulepin,Moclobemide,The metabolism decrease,0
+628,251832,Moclobemide,Brexanolone,The risk or severity of adverse effects increase,2
+629,251846,Cariprazine,Moclobemide,The metabolism decrease,0
+630,251847,Vortioxetine,Moclobemide,The metabolism decrease,0
+631,251864,Moclobemide,Quetiapine,The risk or severity of adverse effects increase,2
+632,251884,Moclobemide,Viloxazine,The risk or severity of adverse effects increase,2
+633,251937,Moclobemide,Agomelatine,The metabolism decrease,0
+634,251989,Esketamine,Moclobemide,The risk or severity of hypertension increase,9
+635,251994,Moclobemide,Escitalopram,The risk or severity of serotonin syndrome increase,21
+636,252991,Agomelatine,Escitalopram,The risk or severity of adverse effects increase,2
+637,252998,Brexanolone,Escitalopram,The risk or severity of adverse effects increase,2
+638,253021,Escitalopram,Viloxazine,The risk or severity of adverse effects increase,2
+639,253163,Escitalopram,Esketamine,The risk or severity of adverse effects increase,2
+640,253174,Escitalopram,Zimelidine,The risk or severity of serotonin syndrome increase,21
+641,253189,Escitalopram,Quetiapine,The risk or severity of serotonin syndrome increase,21
+642,253190,Escitalopram,Clomipramine,The risk or severity of serotonin syndrome increase,21
+643,253198,Escitalopram,Cariprazine,The risk or severity of serotonin syndrome increase,21
+644,253200,Escitalopram,Mianserin,The risk or severity of serotonin syndrome increase,21
+645,253203,Escitalopram,Vilazodone,The risk or severity of serotonin syndrome increase,21
+646,253204,Escitalopram,Desvenlafaxine,The risk or severity of serotonin syndrome increase,21
+647,253206,Escitalopram,Levomilnacipran,The risk or severity of serotonin syndrome increase,21
+648,253207,Escitalopram,Vortioxetine,The risk or severity of serotonin syndrome increase,21
+649,253208,Escitalopram,Dosulepin,The risk or severity of serotonin syndrome increase,21
+650,260850,Quetiapine,Mianserin,the anticholinergic activities increase,60
+651,260881,Quetiapine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+652,260882,Quetiapine,Levomilnacipran,The risk or severity of adverse effects increase,2
+653,260883,Zimelidine,Quetiapine,The risk or severity of adverse effects increase,2
+654,260934,Clomipramine,Quetiapine,the central nervous system depressant ( CNS depressant ) activities increase,7
+655,261004,Vilazodone,Quetiapine,The metabolism decrease,0
+656,261005,Dosulepin,Quetiapine,The metabolism decrease,0
+657,261019,Quetiapine,Agomelatine,The risk or severity of adverse effects increase,2
+658,261023,Quetiapine,Brexanolone,The risk or severity of adverse effects increase,2
+659,261041,Quetiapine,Cariprazine,The risk or severity of adverse effects increase,2
+660,261047,Quetiapine,Vortioxetine,The risk or severity of adverse effects increase,2
+661,261049,Quetiapine,Viloxazine,The risk or severity of adverse effects increase,2
+662,261197,Esketamine,Quetiapine,The risk or severity of hypertension increase,9
+663,264235,Clomipramine,Levomilnacipran,The risk or severity of adverse effects increase,2
+664,264238,Clomipramine,Zimelidine,The risk or severity of adverse effects increase,2
+665,264337,Vortioxetine,Clomipramine,The metabolism decrease,0
+666,264345,Vilazodone,Clomipramine,The metabolism decrease,0
+667,264346,Dosulepin,Clomipramine,The metabolism decrease,0
+668,264365,Clomipramine,Brexanolone,The risk or severity of adverse effects increase,2
+669,264384,Clomipramine,Cariprazine,The risk or severity of adverse effects increase,2
+670,264386,Clomipramine,Mianserin,The risk or severity of adverse effects increase,2
+671,264399,Clomipramine,Viloxazine,The risk or severity of adverse effects increase,2
+672,264420,Clomipramine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+673,264518,Agomelatine,Clomipramine,The metabolism decrease,0
+674,264550,Esketamine,Clomipramine,The risk or severity of hypertension increase,9
+675,287058,Zimelidine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+676,287059,Zimelidine,Levomilnacipran,The risk or severity of adverse effects increase,2
+677,287067,Cariprazine,Zimelidine,The risk or severity of adverse effects increase,2
+678,287069,Mianserin,Zimelidine,The risk or severity of adverse effects increase,2
+679,287077,Agomelatine,Zimelidine,The risk or severity of adverse effects increase,2
+680,287079,Vilazodone,Zimelidine,The risk or severity of adverse effects increase,2
+681,287087,Vortioxetine,Zimelidine,The risk or severity of adverse effects increase,2
+682,287092,Dosulepin,Zimelidine,The risk or severity of adverse effects increase,2
+683,287093,Viloxazine,Zimelidine,The risk or severity of adverse effects increase,2
+684,287099,Brexanolone,Zimelidine,The risk or severity of adverse effects increase,2
+685,287218,Zimelidine,Esketamine,The risk or severity of adverse effects increase,2
+686,295231,Cariprazine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+687,295232,Cariprazine,Levomilnacipran,The risk or severity of adverse effects increase,2
+688,295243,Vilazodone,Cariprazine,The metabolism decrease,0
+689,295244,Dosulepin,Cariprazine,The metabolism decrease,0
+690,295261,Cariprazine,Agomelatine,The risk or severity of adverse effects increase,2
+691,295273,Cariprazine,Brexanolone,The risk or severity of adverse effects increase,2
+692,295284,Cariprazine,Mianserin,The risk or severity of adverse effects increase,2
+693,295292,Cariprazine,Vortioxetine,The risk or severity of adverse effects increase,2
+694,295294,Cariprazine,Viloxazine,The risk or severity of adverse effects increase,2
+695,295331,Esketamine,Cariprazine,The risk or severity of hypertension increase,9
+696,295628,Mianserin,Dosulepin,the anticholinergic activities increase,60
+697,295653,Brexanolone,Mianserin,The therapeutic efficacy decrease,6
+698,295661,Mianserin,Desvenlafaxine,The risk or severity of adverse effects increase,2
+699,295662,Mianserin,Levomilnacipran,The risk or severity of adverse effects increase,2
+700,295667,Vilazodone,Mianserin,The metabolism decrease,0
+701,295697,Mianserin,Vortioxetine,The risk or severity of adverse effects increase,2
+702,295699,Mianserin,Viloxazine,The risk or severity of adverse effects increase,2
+703,295753,Agomelatine,Mianserin,The metabolism decrease,0
+704,295778,Esketamine,Mianserin,The risk or severity of hypertension increase,9
+705,301985,Agomelatine,Dosulepin,The serum concentration increase,4
+706,301988,Agomelatine,Desvenlafaxine,The risk or severity of adverse effects increase,2
+707,301989,Agomelatine,Levomilnacipran,The risk or severity of adverse effects increase,2
+708,301999,Agomelatine,Vilazodone,The risk or severity of adverse effects increase,2
+709,302010,Agomelatine,Viloxazine,The risk or severity of adverse effects increase,2
+710,302018,Agomelatine,Brexanolone,The risk or severity of adverse effects increase,2
+711,302067,Vortioxetine,Agomelatine,The metabolism decrease,0
+712,302086,Agomelatine,Esketamine,The risk or severity of adverse effects increase,2
+713,303857,Vilazodone,Desvenlafaxine,The risk or severity of adverse effects increase,2
+714,303863,Levomilnacipran,Vilazodone,The metabolism decrease,0
+715,303865,Vortioxetine,Vilazodone,The metabolism decrease,0
+716,303866,Dosulepin,Vilazodone,The metabolism decrease,0
+717,303913,Vilazodone,Brexanolone,The risk or severity of adverse effects increase,2
+718,303925,Vilazodone,Viloxazine,The risk or severity of adverse effects increase,2
+719,303948,Esketamine,Vilazodone,The risk or severity of hypertension increase,9
+720,304247,Brexanolone,Desvenlafaxine,The risk or severity of adverse effects increase,2
+721,304251,Desvenlafaxine,Levomilnacipran,The risk or severity of adverse effects increase,2
+722,304253,Desvenlafaxine,Vortioxetine,The risk or severity of adverse effects increase,2
+723,304255,Desvenlafaxine,Viloxazine,The risk or severity of adverse effects increase,2
+724,304384,Dosulepin,Desvenlafaxine,The metabolism decrease,0
+725,304389,Desvenlafaxine,Esketamine,The risk or severity of adverse effects increase,2
+726,311298,Brexanolone,Levomilnacipran,The risk or severity of adverse effects increase,2
+727,311301,Levomilnacipran,Vortioxetine,The risk or severity of adverse effects increase,2
+728,311303,Levomilnacipran,Viloxazine,The risk or severity of adverse effects increase,2
+729,311336,Dosulepin,Levomilnacipran,The metabolism decrease,0
+730,311422,Levomilnacipran,Esketamine,The risk or severity of adverse effects increase,2
+731,313371,Dosulepin,Vortioxetine,The metabolism decrease,0
+732,313382,Vortioxetine,Brexanolone,The risk or severity of adverse effects increase,2
+733,313396,Vortioxetine,Viloxazine,The risk or severity of adverse effects increase,2
+734,313499,Esketamine,Vortioxetine,The risk or severity of hypertension increase,9
+735,315383,Brexanolone,Dosulepin,the central nervous system depressant ( CNS depressant ) activities increase,7
+736,315426,Dosulepin,Viloxazine,The risk or severity of adverse effects increase,2
+737,315458,Esketamine,Dosulepin,The risk or severity of hypertension increase,9
+738,315611,Viloxazine,Brexanolone,The risk or severity of adverse effects increase,2
+739,315671,Viloxazine,Esketamine,The risk or severity of adverse effects increase,2
+740,320865,Brexanolone,Esketamine,The risk or severity of adverse effects increase,2
